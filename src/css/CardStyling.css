@@ -1,0 +1,21 @@
+.cardStyle{
+width:100%;
+max-width: 70em;
+
+}
+.btn--ans{
+margin: 30px;
+}
+
+.align--card{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.Test20{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+
